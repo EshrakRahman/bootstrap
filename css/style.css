@@ -1,0 +1,12 @@
+.row{
+    height: 300px;
+}
+.bg-dark{
+ background: #E0511E !important;
+}
+.bg-primary{
+    background-color: #E78F66 !important;
+}
+.bg-danger{
+    background-color: #EA9F7A !important;
+}
